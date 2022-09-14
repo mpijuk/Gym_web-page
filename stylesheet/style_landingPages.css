@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: url(../style_img/background.jpg);
+}
+
+body h1 {
+    font-size: 2.7rem;
+    text-transform: capitalize;
+    color: #fff;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+body span {
+    color:#f5d108 !important;
+}
+
+.home_link {
+    border-radius: 5px;
+    background-color: #d8b131;
+    padding: 20px;
+    width:10%;
+    margin: auto;
+    text-align: center;
+}
